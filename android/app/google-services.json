@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538450085385",
+    "project_id": "fauzi-flutter",
+    "storage_bucket": "fauzi-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538450085385:android:575428e3170901b6f69ad8",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJNH08DUZiJfDrvnKgpJ0Ky5m8ULR_nM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
